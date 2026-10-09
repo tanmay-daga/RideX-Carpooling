@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+
+# Existing repository exclusions
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor
+Gemfile.lock
